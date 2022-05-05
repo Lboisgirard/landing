@@ -1,0 +1,36 @@
+ul {
+  list-style-type: none;
+  padding: 0;
+ }
+
+ li {
+  display: inline-block;
+  letter-spacing: 15px;;
+  font-size: 50px;
+ }
+
+ .footer {
+   height: 200px;
+   background-color: #2C2B2B;
+   color: #1CDD87;
+   display: block;
+   text-align: center;
+   padding-top: 30px;
+ }
+
+ .footer a {
+  color : #1CDD87;
+  font-size: 30px;
+}
+
+ .footer a:visited {
+  color : #1CDD87;
+ }
+
+ .footer p {
+   color: #6B6C6C;
+ }
+
+ #heart {
+   color: red;
+ }
